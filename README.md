@@ -7,25 +7,18 @@ I've worked with teams from the **United States 🇺🇸**, **United Kingdom �
 ---
 
 ### 🚀 Current Role  
-I work as a **Senior Software Engineer** focused on the U.S. market, designing RESTful APIs and  
-optimizing multi-tenant architectures for profissional SaaS platforms. 
-I manage AWS based infrastructure and integrate AI-powered features using OpenAI and AWS Bedrock to ensure  
-scalability, performance, and security across global environments.
+I work as a **Senior Software Engineer** focused on the **U.S. market**, designing **RESTful APIs** and  
+optimizing **multi-tenant architectures** for professional **SaaS platforms**. I manage **AWS-based  
+infrastructure** and integrate **AI-powered features** using **OpenAI** and **AWS Bedrock** to ensure  
+**scalability**, **performance**, and **security** across global environments.
 
 ---
 
 ### 🎓 Education & Background  
-I hold a **Bachelor’s degree in Computer Analysis** (equivalent to a 3-year Software Engineering degree).  
-During my studies, I learned:  
-- 🧠 Data structures and algorithms  
-- 💡 Programming languages
-- 🧩 Object-oriented programming and design patterns  
-- 🌐 Web development 
-- 🗄️ Databases and SQL  
-- 🧪 Software testing and code quality  
-- 🖥️ Servers, hosting, and networking 
-- 🏗️ Software engineering principles and system design  
-- 🛍️ E-commerce development
+I hold a **Bachelor’s degree in Computer Analysis**, equivalent to a **3-year Software Engineering degree**.  
+My studies covered **data structures and algorithms**, **programming languages**, **object-oriented programming**,  
+**web development**, **databases**, **software testing and quality**, as well as **servers**, **hosting**, **networking**,  
+and **system design principles** and modern **software architecture**.
 
 ---
 
